@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bugatti 介紹</title>
+<meta charset="UTF-8">
+<meta name="description" content="Bugatti Introduction">
+<meta name="keywords" content="Bugatti, Introduction, Bugatti Introduction">
+<meta name="author" content="羅學謙">
+<meta http-equiv="refresh" content=
+"600">
+</head>
+<body style="background-color:black">
+<h1 style="color:blue;font-size:300%"><b>Bugatti</b><p>&#128663;&#128665;&#128512;&#128513;&#128514;</p></h1>
+<a href="https://www.bugatti.com"target="_blank">
+<img src= "5.jpg" width= "30%" height="30%" /></a>
+<h4 style="color:red">傳送至...</h4>
+<a href="#1"><b>草創初期</b></a>
+<a href="#2"><b>設計</b></a>
+<a href="#3"><b>引擎</b></a>
+<br>
+<p style="color:white">布加迪（法語：<b>Bugatti</b>），是法國具有特色的超級跑車車廠之一。布加迪以生產世界上最好的及最快的車聞名於世。最原始的布加迪品牌已經在第二次世界大戰後消失。不過戰後此品牌曾經有兩度中興，目前它是福斯集團旗下的一個品牌。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkkV1vLHUvQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<a id="1">  </a>
+<h3 style="color:white"><b>草創初期</b></h3>
+<p style="color:white">布加迪創辦人埃托雷·阿爾科·伊西多羅·布加蒂出生於義大利，這個以他的姓氏為名的車廠座落在Molsheim；此地位於阿爾薩斯，阿爾薩斯原本是法國的一個省,普法戰爭法國戰敗後被割讓給普魯士，普魯士統一德國後成為德國領土，它在第一次世界大戰前是德國的領土（戰後歸還法國）。這家車廠是以精巧的造車技術出名，其高級汽車的製造更是一流。布加迪是汽車大獎賽（F1的前身）的常勝軍，它們是第一屆摩納哥大獎賽的冠軍。布加迪也是利曼24小時耐久賽的常勝軍，Jean-Pierre Wimille為其二度奪下冠軍而Robert Benoist和Pierre Veyron（日後的Veyron車款就是為了紀念他）也各為布加迪拿下一冠。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QIlOZFmHfVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<a id="2">  </a>
+<h3 style="color:white"><b>設計</b></h3>
+<p style="color:white">布加迪的車就像是藝術品一般，車輛的引擎全是由手工製造和調校，所有可以輕量化的零件都不放過，布加迪注重車輛的細節與平衡。他形容自己的主要競爭對手賓利是「全球最快的卡車」因為賓利只注重耐久和性能而忽略輕量化。在布加迪的造車哲學中，重量是最大的敵人。</p>
+<img src= "6.jpg" width= "100%" height="100%" /></a>
+<br>
+<a id="3">  </a>
+<h3 style="color:white"><b>引擎</b></h3>
+<p style="color:white">因為其引擎的外型（當時布加迪的引擎都是直列式的），布加迪被譽為立體派藝術家而他事實上也曾經拜訪過立體派藝術家。很多布加迪引擎在尺碼上並不驚人，但輸出卻極為強勁，而且很多引擎都是每缸三閥的。甚至還有搭載機械增壓的。布加迪在見過哈利·米勒兩台的賽車引擎結構後，取得Miller授權，開始在其車上配置DOHC結構。</p>
+<img src= "7.jpg" width= "80%" height="80%" /></a>
+<br>
+<a href="https://zh.wikipedia.org/wiki/%E5%B8%83%E5%8A%A0%E8%BF%AA"target="_blank">參考網址</a>
+</body>
+</html>
